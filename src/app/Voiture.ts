@@ -6,5 +6,4 @@ export class Voiture {
   created : Date
   picture : string
 
-
 }
